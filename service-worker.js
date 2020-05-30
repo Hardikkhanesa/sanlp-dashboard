@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://avi-final.web.app/precache-manifest.d13dd1c2b9912807fdecb9e488e5ec85.js"
+  "https://avi-final.web.app/precache-manifest.dd53d1d64e0a4c3c56d1e25891f9d11b.js"
 );
 
 workbox.clientsClaim();
