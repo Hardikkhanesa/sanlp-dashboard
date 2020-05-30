@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "https://avi-final.web.app/static/css/15.f929d69d.chunk.css"
   },
   {
-    "revision": "03e34e1d35abea202cc22f1e19b14e3b",
+    "revision": "1d8318f3be2a823432724324de626763",
     "url": "https://avi-final.web.app/index.html"
   }
 ];
